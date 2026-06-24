@@ -87,7 +87,7 @@ The main analysis pipeline:
 ### Installation
 
 ```bash
-git clone https://github.com/SaadHelal-IMC/Capstone-Project.git
+git clone https://github.com/SaadHelal-IMC/Epo-companies-similarity-graph
 cd Capstone-Project
 
 python -m venv .venv
