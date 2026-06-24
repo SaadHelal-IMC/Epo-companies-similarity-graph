@@ -1,4 +1,4 @@
-# Patent Company Graph
+# Epo Companies Similarity Graph
 
 **Capstone Project — IMC University of Applied Sciences, Summer 2026**
 
@@ -16,7 +16,6 @@ We collected 3,799 European patent applications from the EPO Open Patent Service
 - Translation of 321 non-English abstracts (mostly German) eliminates language-based clustering artifacts
 - The resulting network reveals intuitive industry groupings: automotive, tech/telecom, electronics, healthcare, and a pharma outlier (Novartis)
 - Bridge companies like IBM, Roche, and Philips connect different technological communities
-
 
 ## Project Structure
 
@@ -45,7 +44,7 @@ We collected 3,799 European patent applications from the EPO Open Patent Service
     ├── 12_tsne_sbert.png
     ├── 13_company_graph_sbert.png
     ├── 14_topic_distribution.png
-    
+
     └── ...
 ```
 
@@ -128,13 +127,13 @@ python 03_nlp_similarity.py
 
 ### Company Clusters (SBERT, k=5)
 
-| Cluster | Label                   | Companies                                                                                                  |
-| ------- | ----------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Cluster | Label                   | Companies                                                                                                          |
+| ------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | 0       | Industrial / Automotive | ABB, Airbus, BMW, Bosch, General Electric, Hitachi, Honda, Huawei, Schneider Electric, Siemens, Toyota, Volkswagen |
-| 1       | Technology / Telecom    | Apple, Ericsson, Google, Honeywell, IBM, Intel, Microsoft, Nokia, Qualcomm, SAP                            |
-| 2       | Pharma Outlier          | Novartis                                                                                                   |
-| 3       | Electronics / Materials | BASF, Canon, Infineon, LG Electronics, Panasonic, Samsung, Sony, Toshiba                                   |
-| 4       | Healthcare              | Bayer, Philips, Roche                                                                                      |
+| 1       | Technology / Telecom    | Apple, Ericsson, Google, Honeywell, IBM, Intel, Microsoft, Nokia, Qualcomm, SAP                                    |
+| 2       | Pharma Outlier          | Novartis                                                                                                           |
+| 3       | Electronics / Materials | BASF, Canon, Infineon, LG Electronics, Panasonic, Samsung, Sony, Toshiba                                           |
+| 4       | Healthcare              | Bayer, Philips, Roche                                                                                              |
 
 ### Method Comparison
 
