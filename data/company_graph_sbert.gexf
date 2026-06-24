@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-24">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="cluster" type="long" />
+    </attributes>
+    <nodes>
+      <node id="ABB" label="ABB">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="AIRBUS" label="AIRBUS">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="APPLE" label="APPLE">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="BASF" label="BASF">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="BAYER" label="BAYER">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="BMW" label="BMW">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="BOSCH" label="BOSCH">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="CANON" label="CANON">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="ERICSSON" label="ERICSSON">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="GENERAL ELECTRIC" label="GENERAL ELECTRIC">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="GOOGLE" label="GOOGLE">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="HITACHI" label="HITACHI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="HONDA" label="HONDA">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="HONEYWELL" label="HONEYWELL">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="HUAWEI" label="HUAWEI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="IBM" label="IBM">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="INFINEON" label="INFINEON">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="INTEL" label="INTEL">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="LG ELECTRONICS" label="LG ELECTRONICS">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="MICROSOFT" label="MICROSOFT">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="NOKIA" label="NOKIA">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="NOVARTIS" label="NOVARTIS">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="PANASONIC" label="PANASONIC">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="PHILIPS" label="PHILIPS">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="QUALCOMM" label="QUALCOMM">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="ROCHE" label="ROCHE">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="SAMSUNG" label="SAMSUNG">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="SAP" label="SAP">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="SCHNEIDER ELECTRIC" label="SCHNEIDER ELECTRIC">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="SIEMENS" label="SIEMENS">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="SONY" label="SONY">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="TOSHIBA" label="TOSHIBA">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="TOYOTA" label="TOYOTA">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="VOLKSWAGEN" label="VOLKSWAGEN">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="ABB" target="AIRBUS" id="0" weight="0.856" />
+      <edge source="ABB" target="APPLE" id="1" weight="0.839" />
+      <edge source="ABB" target="BMW" id="2" weight="0.868" />
+      <edge source="ABB" target="BOSCH" id="3" weight="0.904" />
+      <edge source="ABB" target="CANON" id="4" weight="0.809" />
+      <edge source="ABB" target="ERICSSON" id="5" weight="0.826" />
+      <edge source="ABB" target="GENERAL ELECTRIC" id="6" weight="0.884" />
+      <edge source="ABB" target="GOOGLE" id="7" weight="0.846" />
+      <edge source="ABB" target="HITACHI" id="8" weight="0.917" />
+      <edge source="ABB" target="HONDA" id="9" weight="0.855" />
+      <edge source="ABB" target="HONEYWELL" id="10" weight="0.896" />
+      <edge source="ABB" target="HUAWEI" id="11" weight="0.899" />
+      <edge source="ABB" target="IBM" id="12" weight="0.876" />
+      <edge source="ABB" target="INFINEON" id="13" weight="0.82" />
+      <edge source="ABB" target="INTEL" id="14" weight="0.831" />
+      <edge source="ABB" target="LG ELECTRONICS" id="15" weight="0.838" />
+      <edge source="ABB" target="MICROSOFT" id="16" weight="0.849" />
+      <edge source="ABB" target="NOKIA" id="17" weight="0.809" />
+      <edge source="ABB" target="PANASONIC" id="18" weight="0.872" />
+      <edge source="ABB" target="SAMSUNG" id="19" weight="0.85" />
+      <edge source="ABB" target="SCHNEIDER ELECTRIC" id="20" weight="0.951" />
+      <edge source="ABB" target="SIEMENS" id="21" weight="0.945" />
+      <edge source="ABB" target="SONY" id="22" weight="0.856" />
+      <edge source="ABB" target="TOSHIBA" id="23" weight="0.868" />
+      <edge source="ABB" target="TOYOTA" id="24" weight="0.874" />
+      <edge source="ABB" target="VOLKSWAGEN" id="25" weight="0.869" />
+      <edge source="AIRBUS" target="APPLE" id="26" weight="0.821" />
+      <edge source="AIRBUS" target="BMW" id="27" weight="0.822" />
+      <edge source="AIRBUS" target="BOSCH" id="28" weight="0.882" />
+      <edge source="AIRBUS" target="CANON" id="29" weight="0.811" />
+      <edge source="AIRBUS" target="ERICSSON" id="30" weight="0.804" />
+      <edge source="AIRBUS" target="GENERAL ELECTRIC" id="31" weight="0.897" />
+      <edge source="AIRBUS" target="GOOGLE" id="32" weight="0.807" />
+      <edge source="AIRBUS" target="HITACHI" id="33" weight="0.859" />
+      <edge source="AIRBUS" target="HONDA" id="34" weight="0.834" />
+      <edge source="AIRBUS" target="HONEYWELL" id="35" weight="0.863" />
+      <edge source="AIRBUS" target="HUAWEI" id="36" weight="0.862" />
+      <edge source="AIRBUS" target="IBM" id="37" weight="0.818" />
+      <edge source="AIRBUS" target="INFINEON" id="38" weight="0.828" />
+      <edge source="AIRBUS" target="INTEL" id="39" weight="0.806" />
+      <edge source="AIRBUS" target="LG ELECTRONICS" id="40" weight="0.838" />
+      <edge source="AIRBUS" target="MICROSOFT" id="41" weight="0.812" />
+      <edge source="AIRBUS" target="PANASONIC" id="42" weight="0.825" />
+      <edge source="AIRBUS" target="SAMSUNG" id="43" weight="0.833" />
+      <edge source="AIRBUS" target="SCHNEIDER ELECTRIC" id="44" weight="0.865" />
+      <edge source="AIRBUS" target="SIEMENS" id="45" weight="0.877" />
+      <edge source="AIRBUS" target="SONY" id="46" weight="0.836" />
+      <edge source="AIRBUS" target="TOSHIBA" id="47" weight="0.843" />
+      <edge source="AIRBUS" target="TOYOTA" id="48" weight="0.861" />
+      <edge source="AIRBUS" target="VOLKSWAGEN" id="49" weight="0.826" />
+      <edge source="APPLE" target="BOSCH" id="50" weight="0.842" />
+      <edge source="APPLE" target="CANON" id="51" weight="0.853" />
+      <edge source="APPLE" target="ERICSSON" id="52" weight="0.854" />
+      <edge source="APPLE" target="GENERAL ELECTRIC" id="53" weight="0.813" />
+      <edge source="APPLE" target="GOOGLE" id="54" weight="0.931" />
+      <edge source="APPLE" target="HITACHI" id="55" weight="0.866" />
+      <edge source="APPLE" target="HONDA" id="56" weight="0.831" />
+      <edge source="APPLE" target="HONEYWELL" id="57" weight="0.881" />
+      <edge source="APPLE" target="HUAWEI" id="58" weight="0.841" />
+      <edge source="APPLE" target="IBM" id="59" weight="0.893" />
+      <edge source="APPLE" target="INFINEON" id="60" weight="0.861" />
+      <edge source="APPLE" target="INTEL" id="61" weight="0.896" />
+      <edge source="APPLE" target="LG ELECTRONICS" id="62" weight="0.909" />
+      <edge source="APPLE" target="MICROSOFT" id="63" weight="0.895" />
+      <edge source="APPLE" target="NOKIA" id="64" weight="0.872" />
+      <edge source="APPLE" target="PANASONIC" id="65" weight="0.886" />
+      <edge source="APPLE" target="PHILIPS" id="66" weight="0.846" />
+      <edge source="APPLE" target="QUALCOMM" id="67" weight="0.861" />
+      <edge source="APPLE" target="SAMSUNG" id="68" weight="0.939" />
+      <edge source="APPLE" target="SCHNEIDER ELECTRIC" id="69" weight="0.86" />
+      <edge source="APPLE" target="SIEMENS" id="70" weight="0.864" />
+      <edge source="APPLE" target="SONY" id="71" weight="0.915" />
+      <edge source="APPLE" target="TOSHIBA" id="72" weight="0.887" />
+      <edge source="APPLE" target="TOYOTA" id="73" weight="0.852" />
+      <edge source="APPLE" target="VOLKSWAGEN" id="74" weight="0.803" />
+      <edge source="BAYER" target="ROCHE" id="75" weight="0.816" />
+      <edge source="BMW" target="BOSCH" id="76" weight="0.904" />
+      <edge source="BMW" target="GENERAL ELECTRIC" id="77" weight="0.812" />
+      <edge source="BMW" target="HITACHI" id="78" weight="0.893" />
+      <edge source="BMW" target="HONDA" id="79" weight="0.937" />
+      <edge source="BMW" target="HONEYWELL" id="80" weight="0.843" />
+      <edge source="BMW" target="HUAWEI" id="81" weight="0.89" />
+      <edge source="BMW" target="LG ELECTRONICS" id="82" weight="0.825" />
+      <edge source="BMW" target="PANASONIC" id="83" weight="0.833" />
+      <edge source="BMW" target="SAMSUNG" id="84" weight="0.84" />
+      <edge source="BMW" target="SCHNEIDER ELECTRIC" id="85" weight="0.853" />
+      <edge source="BMW" target="SIEMENS" id="86" weight="0.921" />
+      <edge source="BMW" target="SONY" id="87" weight="0.814" />
+      <edge source="BMW" target="TOSHIBA" id="88" weight="0.827" />
+      <edge source="BMW" target="TOYOTA" id="89" weight="0.923" />
+      <edge source="BMW" target="VOLKSWAGEN" id="90" weight="0.964" />
+      <edge source="BOSCH" target="CANON" id="91" weight="0.831" />
+      <edge source="BOSCH" target="ERICSSON" id="92" weight="0.835" />
+      <edge source="BOSCH" target="GENERAL ELECTRIC" id="93" weight="0.89" />
+      <edge source="BOSCH" target="GOOGLE" id="94" weight="0.836" />
+      <edge source="BOSCH" target="HITACHI" id="95" weight="0.92" />
+      <edge source="BOSCH" target="HONDA" id="96" weight="0.91" />
+      <edge source="BOSCH" target="HONEYWELL" id="97" weight="0.889" />
+      <edge source="BOSCH" target="HUAWEI" id="98" weight="0.89" />
+      <edge source="BOSCH" target="IBM" id="99" weight="0.87" />
+      <edge source="BOSCH" target="INFINEON" id="100" weight="0.865" />
+      <edge source="BOSCH" target="INTEL" id="101" weight="0.841" />
+      <edge source="BOSCH" target="LG ELECTRONICS" id="102" weight="0.848" />
+      <edge source="BOSCH" target="MICROSOFT" id="103" weight="0.838" />
+      <edge source="BOSCH" target="NOKIA" id="104" weight="0.821" />
+      <edge source="BOSCH" target="PANASONIC" id="105" weight="0.878" />
+      <edge source="BOSCH" target="PHILIPS" id="106" weight="0.813" />
+      <edge source="BOSCH" target="SAMSUNG" id="107" weight="0.858" />
+      <edge source="BOSCH" target="SCHNEIDER ELECTRIC" id="108" weight="0.893" />
+      <edge source="BOSCH" target="SIEMENS" id="109" weight="0.936" />
+      <edge source="BOSCH" target="SONY" id="110" weight="0.867" />
+      <edge source="BOSCH" target="TOSHIBA" id="111" weight="0.88" />
+      <edge source="BOSCH" target="TOYOTA" id="112" weight="0.924" />
+      <edge source="BOSCH" target="VOLKSWAGEN" id="113" weight="0.924" />
+      <edge source="CANON" target="ERICSSON" id="114" weight="0.81" />
+      <edge source="CANON" target="GENERAL ELECTRIC" id="115" weight="0.803" />
+      <edge source="CANON" target="GOOGLE" id="116" weight="0.84" />
+      <edge source="CANON" target="HITACHI" id="117" weight="0.885" />
+      <edge source="CANON" target="HONDA" id="118" weight="0.855" />
+      <edge source="CANON" target="HONEYWELL" id="119" weight="0.834" />
+      <edge source="CANON" target="HUAWEI" id="120" weight="0.832" />
+      <edge source="CANON" target="IBM" id="121" weight="0.833" />
+      <edge source="CANON" target="INFINEON" id="122" weight="0.855" />
+      <edge source="CANON" target="INTEL" id="123" weight="0.858" />
+      <edge source="CANON" target="LG ELECTRONICS" id="124" weight="0.871" />
+      <edge source="CANON" target="MICROSOFT" id="125" weight="0.836" />
+      <edge source="CANON" target="NOKIA" id="126" weight="0.841" />
+      <edge source="CANON" target="PANASONIC" id="127" weight="0.924" />
+      <edge source="CANON" target="PHILIPS" id="128" weight="0.833" />
+      <edge source="CANON" target="SAMSUNG" id="129" weight="0.877" />
+      <edge source="CANON" target="SCHNEIDER ELECTRIC" id="130" weight="0.843" />
+      <edge source="CANON" target="SIEMENS" id="131" weight="0.841" />
+      <edge source="CANON" target="SONY" id="132" weight="0.927" />
+      <edge source="CANON" target="TOSHIBA" id="133" weight="0.925" />
+      <edge source="CANON" target="TOYOTA" id="134" weight="0.895" />
+      <edge source="ERICSSON" target="GOOGLE" id="135" weight="0.88" />
+      <edge source="ERICSSON" target="HITACHI" id="136" weight="0.806" />
+      <edge source="ERICSSON" target="HONEYWELL" id="137" weight="0.843" />
+      <edge source="ERICSSON" target="HUAWEI" id="138" weight="0.802" />
+      <edge source="ERICSSON" target="IBM" id="139" weight="0.86" />
+      <edge source="ERICSSON" target="INTEL" id="140" weight="0.893" />
+      <edge source="ERICSSON" target="LG ELECTRONICS" id="141" weight="0.843" />
+      <edge source="ERICSSON" target="MICROSOFT" id="142" weight="0.899" />
+      <edge source="ERICSSON" target="NOKIA" id="143" weight="0.926" />
+      <edge source="ERICSSON" target="PANASONIC" id="144" weight="0.803" />
+      <edge source="ERICSSON" target="PHILIPS" id="145" weight="0.872" />
+      <edge source="ERICSSON" target="QUALCOMM" id="146" weight="0.903" />
+      <edge source="ERICSSON" target="SAMSUNG" id="147" weight="0.813" />
+      <edge source="ERICSSON" target="SCHNEIDER ELECTRIC" id="148" weight="0.852" />
+      <edge source="ERICSSON" target="SIEMENS" id="149" weight="0.826" />
+      <edge source="ERICSSON" target="SONY" id="150" weight="0.855" />
+      <edge source="ERICSSON" target="TOSHIBA" id="151" weight="0.823" />
+      <edge source="GENERAL ELECTRIC" target="GOOGLE" id="152" weight="0.814" />
+      <edge source="GENERAL ELECTRIC" target="HITACHI" id="153" weight="0.881" />
+      <edge source="GENERAL ELECTRIC" target="HONDA" id="154" weight="0.84" />
+      <edge source="GENERAL ELECTRIC" target="HONEYWELL" id="155" weight="0.865" />
+      <edge source="GENERAL ELECTRIC" target="HUAWEI" id="156" weight="0.848" />
+      <edge source="GENERAL ELECTRIC" target="IBM" id="157" weight="0.831" />
+      <edge source="GENERAL ELECTRIC" target="INFINEON" id="158" weight="0.827" />
+      <edge source="GENERAL ELECTRIC" target="INTEL" id="159" weight="0.825" />
+      <edge source="GENERAL ELECTRIC" target="LG ELECTRONICS" id="160" weight="0.818" />
+      <edge source="GENERAL ELECTRIC" target="MICROSOFT" id="161" weight="0.827" />
+      <edge source="GENERAL ELECTRIC" target="PANASONIC" id="162" weight="0.826" />
+      <edge source="GENERAL ELECTRIC" target="SAMSUNG" id="163" weight="0.825" />
+      <edge source="GENERAL ELECTRIC" target="SCHNEIDER ELECTRIC" id="164" weight="0.889" />
+      <edge source="GENERAL ELECTRIC" target="SIEMENS" id="165" weight="0.872" />
+      <edge source="GENERAL ELECTRIC" target="SONY" id="166" weight="0.834" />
+      <edge source="GENERAL ELECTRIC" target="TOSHIBA" id="167" weight="0.854" />
+      <edge source="GENERAL ELECTRIC" target="TOYOTA" id="168" weight="0.87" />
+      <edge source="GENERAL ELECTRIC" target="VOLKSWAGEN" id="169" weight="0.803" />
+      <edge source="GOOGLE" target="HITACHI" id="170" weight="0.853" />
+      <edge source="GOOGLE" target="HONEYWELL" id="171" weight="0.882" />
+      <edge source="GOOGLE" target="HUAWEI" id="172" weight="0.828" />
+      <edge source="GOOGLE" target="IBM" id="173" weight="0.922" />
+      <edge source="GOOGLE" target="INFINEON" id="174" weight="0.837" />
+      <edge source="GOOGLE" target="INTEL" id="175" weight="0.919" />
+      <edge source="GOOGLE" target="LG ELECTRONICS" id="176" weight="0.842" />
+      <edge source="GOOGLE" target="MICROSOFT" id="177" weight="0.948" />
+      <edge source="GOOGLE" target="NOKIA" id="178" weight="0.872" />
+      <edge source="GOOGLE" target="PANASONIC" id="179" weight="0.845" />
+      <edge source="GOOGLE" target="PHILIPS" id="180" weight="0.86" />
+      <edge source="GOOGLE" target="QUALCOMM" id="181" weight="0.851" />
+      <edge source="GOOGLE" target="SAMSUNG" id="182" weight="0.875" />
+      <edge source="GOOGLE" target="SAP" id="183" weight="0.831" />
+      <edge source="GOOGLE" target="SCHNEIDER ELECTRIC" id="184" weight="0.854" />
+      <edge source="GOOGLE" target="SIEMENS" id="185" weight="0.845" />
+      <edge source="GOOGLE" target="SONY" id="186" weight="0.904" />
+      <edge source="GOOGLE" target="TOSHIBA" id="187" weight="0.851" />
+      <edge source="GOOGLE" target="TOYOTA" id="188" weight="0.822" />
+      <edge source="HITACHI" target="HONDA" id="189" weight="0.937" />
+      <edge source="HITACHI" target="HONEYWELL" id="190" weight="0.903" />
+      <edge source="HITACHI" target="HUAWEI" id="191" weight="0.914" />
+      <edge source="HITACHI" target="IBM" id="192" weight="0.87" />
+      <edge source="HITACHI" target="INFINEON" id="193" weight="0.864" />
+      <edge source="HITACHI" target="INTEL" id="194" weight="0.842" />
+      <edge source="HITACHI" target="LG ELECTRONICS" id="195" weight="0.872" />
+      <edge source="HITACHI" target="MICROSOFT" id="196" weight="0.853" />
+      <edge source="HITACHI" target="NOKIA" id="197" weight="0.808" />
+      <edge source="HITACHI" target="PANASONIC" id="198" weight="0.93" />
+      <edge source="HITACHI" target="PHILIPS" id="199" weight="0.815" />
+      <edge source="HITACHI" target="SAMSUNG" id="200" weight="0.888" />
+      <edge source="HITACHI" target="SCHNEIDER ELECTRIC" id="201" weight="0.911" />
+      <edge source="HITACHI" target="SIEMENS" id="202" weight="0.929" />
+      <edge source="HITACHI" target="SONY" id="203" weight="0.904" />
+      <edge source="HITACHI" target="TOSHIBA" id="204" weight="0.941" />
+      <edge source="HITACHI" target="TOYOTA" id="205" weight="0.954" />
+      <edge source="HITACHI" target="VOLKSWAGEN" id="206" weight="0.893" />
+      <edge source="HONDA" target="HONEYWELL" id="207" weight="0.872" />
+      <edge source="HONDA" target="HUAWEI" id="208" weight="0.875" />
+      <edge source="HONDA" target="IBM" id="209" weight="0.817" />
+      <edge source="HONDA" target="INFINEON" id="210" weight="0.842" />
+      <edge source="HONDA" target="LG ELECTRONICS" id="211" weight="0.85" />
+      <edge source="HONDA" target="PANASONIC" id="212" weight="0.899" />
+      <edge source="HONDA" target="SAMSUNG" id="213" weight="0.871" />
+      <edge source="HONDA" target="SCHNEIDER ELECTRIC" id="214" weight="0.86" />
+      <edge source="HONDA" target="SIEMENS" id="215" weight="0.899" />
+      <edge source="HONDA" target="SONY" id="216" weight="0.879" />
+      <edge source="HONDA" target="TOSHIBA" id="217" weight="0.891" />
+      <edge source="HONDA" target="TOYOTA" id="218" weight="0.977" />
+      <edge source="HONDA" target="VOLKSWAGEN" id="219" weight="0.931" />
+      <edge source="HONEYWELL" target="HUAWEI" id="220" weight="0.852" />
+      <edge source="HONEYWELL" target="IBM" id="221" weight="0.912" />
+      <edge source="HONEYWELL" target="INFINEON" id="222" weight="0.871" />
+      <edge source="HONEYWELL" target="INTEL" id="223" weight="0.874" />
+      <edge source="HONEYWELL" target="LG ELECTRONICS" id="224" weight="0.846" />
+      <edge source="HONEYWELL" target="MICROSOFT" id="225" weight="0.896" />
+      <edge source="HONEYWELL" target="NOKIA" id="226" weight="0.85" />
+      <edge source="HONEYWELL" target="PANASONIC" id="227" weight="0.867" />
+      <edge source="HONEYWELL" target="PHILIPS" id="228" weight="0.842" />
+      <edge source="HONEYWELL" target="SAMSUNG" id="229" weight="0.863" />
+      <edge source="HONEYWELL" target="SAP" id="230" weight="0.807" />
+      <edge source="HONEYWELL" target="SCHNEIDER ELECTRIC" id="231" weight="0.913" />
+      <edge source="HONEYWELL" target="SIEMENS" id="232" weight="0.893" />
+      <edge source="HONEYWELL" target="SONY" id="233" weight="0.894" />
+      <edge source="HONEYWELL" target="TOSHIBA" id="234" weight="0.881" />
+      <edge source="HONEYWELL" target="TOYOTA" id="235" weight="0.886" />
+      <edge source="HONEYWELL" target="VOLKSWAGEN" id="236" weight="0.853" />
+      <edge source="HUAWEI" target="IBM" id="237" weight="0.809" />
+      <edge source="HUAWEI" target="INFINEON" id="238" weight="0.826" />
+      <edge source="HUAWEI" target="INTEL" id="239" weight="0.824" />
+      <edge source="HUAWEI" target="LG ELECTRONICS" id="240" weight="0.863" />
+      <edge source="HUAWEI" target="PANASONIC" id="241" weight="0.863" />
+      <edge source="HUAWEI" target="SAMSUNG" id="242" weight="0.87" />
+      <edge source="HUAWEI" target="SCHNEIDER ELECTRIC" id="243" weight="0.894" />
+      <edge source="HUAWEI" target="SIEMENS" id="244" weight="0.93" />
+      <edge source="HUAWEI" target="SONY" id="245" weight="0.864" />
+      <edge source="HUAWEI" target="TOSHIBA" id="246" weight="0.888" />
+      <edge source="HUAWEI" target="TOYOTA" id="247" weight="0.883" />
+      <edge source="HUAWEI" target="VOLKSWAGEN" id="248" weight="0.882" />
+      <edge source="IBM" target="INFINEON" id="249" weight="0.839" />
+      <edge source="IBM" target="INTEL" id="250" weight="0.882" />
+      <edge source="IBM" target="LG ELECTRONICS" id="251" weight="0.824" />
+      <edge source="IBM" target="MICROSOFT" id="252" weight="0.925" />
+      <edge source="IBM" target="NOKIA" id="253" weight="0.855" />
+      <edge source="IBM" target="PANASONIC" id="254" weight="0.849" />
+      <edge source="IBM" target="PHILIPS" id="255" weight="0.834" />
+      <edge source="IBM" target="ROCHE" id="256" weight="0.807" />
+      <edge source="IBM" target="SAMSUNG" id="257" weight="0.861" />
+      <edge source="IBM" target="SAP" id="258" weight="0.867" />
+      <edge source="IBM" target="SCHNEIDER ELECTRIC" id="259" weight="0.874" />
+      <edge source="IBM" target="SIEMENS" id="260" weight="0.86" />
+      <edge source="IBM" target="SONY" id="261" weight="0.895" />
+      <edge source="IBM" target="TOSHIBA" id="262" weight="0.859" />
+      <edge source="IBM" target="TOYOTA" id="263" weight="0.85" />
+      <edge source="IBM" target="VOLKSWAGEN" id="264" weight="0.807" />
+      <edge source="INFINEON" target="INTEL" id="265" weight="0.858" />
+      <edge source="INFINEON" target="LG ELECTRONICS" id="266" weight="0.844" />
+      <edge source="INFINEON" target="MICROSOFT" id="267" weight="0.823" />
+      <edge source="INFINEON" target="NOKIA" id="268" weight="0.809" />
+      <edge source="INFINEON" target="PANASONIC" id="269" weight="0.882" />
+      <edge source="INFINEON" target="PHILIPS" id="270" weight="0.81" />
+      <edge source="INFINEON" target="SAMSUNG" id="271" weight="0.884" />
+      <edge source="INFINEON" target="SCHNEIDER ELECTRIC" id="272" weight="0.86" />
+      <edge source="INFINEON" target="SIEMENS" id="273" weight="0.847" />
+      <edge source="INFINEON" target="SONY" id="274" weight="0.891" />
+      <edge source="INFINEON" target="TOSHIBA" id="275" weight="0.904" />
+      <edge source="INFINEON" target="TOYOTA" id="276" weight="0.869" />
+      <edge source="INFINEON" target="VOLKSWAGEN" id="277" weight="0.804" />
+      <edge source="INTEL" target="LG ELECTRONICS" id="278" weight="0.85" />
+      <edge source="INTEL" target="MICROSOFT" id="279" weight="0.919" />
+      <edge source="INTEL" target="NOKIA" id="280" weight="0.919" />
+      <edge source="INTEL" target="PANASONIC" id="281" weight="0.841" />
+      <edge source="INTEL" target="PHILIPS" id="282" weight="0.863" />
+      <edge source="INTEL" target="QUALCOMM" id="283" weight="0.876" />
+      <edge source="INTEL" target="SAMSUNG" id="284" weight="0.864" />
+      <edge source="INTEL" target="SCHNEIDER ELECTRIC" id="285" weight="0.865" />
+      <edge source="INTEL" target="SIEMENS" id="286" weight="0.836" />
+      <edge source="INTEL" target="SONY" id="287" weight="0.896" />
+      <edge source="INTEL" target="TOSHIBA" id="288" weight="0.862" />
+      <edge source="INTEL" target="TOYOTA" id="289" weight="0.826" />
+      <edge source="LG ELECTRONICS" target="MICROSOFT" id="290" weight="0.828" />
+      <edge source="LG ELECTRONICS" target="NOKIA" id="291" weight="0.864" />
+      <edge source="LG ELECTRONICS" target="PANASONIC" id="292" weight="0.875" />
+      <edge source="LG ELECTRONICS" target="PHILIPS" id="293" weight="0.841" />
+      <edge source="LG ELECTRONICS" target="QUALCOMM" id="294" weight="0.854" />
+      <edge source="LG ELECTRONICS" target="SAMSUNG" id="295" weight="0.919" />
+      <edge source="LG ELECTRONICS" target="SCHNEIDER ELECTRIC" id="296" weight="0.861" />
+      <edge source="LG ELECTRONICS" target="SIEMENS" id="297" weight="0.866" />
+      <edge source="LG ELECTRONICS" target="SONY" id="298" weight="0.911" />
+      <edge source="LG ELECTRONICS" target="TOSHIBA" id="299" weight="0.881" />
+      <edge source="LG ELECTRONICS" target="TOYOTA" id="300" weight="0.868" />
+      <edge source="LG ELECTRONICS" target="VOLKSWAGEN" id="301" weight="0.807" />
+      <edge source="MICROSOFT" target="NOKIA" id="302" weight="0.896" />
+      <edge source="MICROSOFT" target="PANASONIC" id="303" weight="0.828" />
+      <edge source="MICROSOFT" target="PHILIPS" id="304" weight="0.863" />
+      <edge source="MICROSOFT" target="QUALCOMM" id="305" weight="0.834" />
+      <edge source="MICROSOFT" target="SAMSUNG" id="306" weight="0.838" />
+      <edge source="MICROSOFT" target="SAP" id="307" weight="0.858" />
+      <edge source="MICROSOFT" target="SCHNEIDER ELECTRIC" id="308" weight="0.866" />
+      <edge source="MICROSOFT" target="SIEMENS" id="309" weight="0.831" />
+      <edge source="MICROSOFT" target="SONY" id="310" weight="0.898" />
+      <edge source="MICROSOFT" target="TOSHIBA" id="311" weight="0.842" />
+      <edge source="MICROSOFT" target="TOYOTA" id="312" weight="0.823" />
+      <edge source="NOKIA" target="PANASONIC" id="313" weight="0.824" />
+      <edge source="NOKIA" target="PHILIPS" id="314" weight="0.868" />
+      <edge source="NOKIA" target="QUALCOMM" id="315" weight="0.889" />
+      <edge source="NOKIA" target="SAMSUNG" id="316" weight="0.833" />
+      <edge source="NOKIA" target="SCHNEIDER ELECTRIC" id="317" weight="0.833" />
+      <edge source="NOKIA" target="SIEMENS" id="318" weight="0.805" />
+      <edge source="NOKIA" target="SONY" id="319" weight="0.878" />
+      <edge source="NOKIA" target="TOSHIBA" id="320" weight="0.829" />
+      <edge source="NOKIA" target="TOYOTA" id="321" weight="0.804" />
+      <edge source="PANASONIC" target="PHILIPS" id="322" weight="0.811" />
+      <edge source="PANASONIC" target="SAMSUNG" id="323" weight="0.912" />
+      <edge source="PANASONIC" target="SCHNEIDER ELECTRIC" id="324" weight="0.881" />
+      <edge source="PANASONIC" target="SIEMENS" id="325" weight="0.891" />
+      <edge source="PANASONIC" target="SONY" id="326" weight="0.922" />
+      <edge source="PANASONIC" target="TOSHIBA" id="327" weight="0.949" />
+      <edge source="PANASONIC" target="TOYOTA" id="328" weight="0.923" />
+      <edge source="PANASONIC" target="VOLKSWAGEN" id="329" weight="0.844" />
+      <edge source="PHILIPS" target="QUALCOMM" id="330" weight="0.87" />
+      <edge source="PHILIPS" target="ROCHE" id="331" weight="0.851" />
+      <edge source="PHILIPS" target="SAMSUNG" id="332" weight="0.813" />
+      <edge source="PHILIPS" target="SCHNEIDER ELECTRIC" id="333" weight="0.828" />
+      <edge source="PHILIPS" target="SIEMENS" id="334" weight="0.812" />
+      <edge source="PHILIPS" target="SONY" id="335" weight="0.886" />
+      <edge source="PHILIPS" target="TOSHIBA" id="336" weight="0.833" />
+      <edge source="QUALCOMM" target="SONY" id="337" weight="0.847" />
+      <edge source="SAMSUNG" target="SCHNEIDER ELECTRIC" id="338" weight="0.869" />
+      <edge source="SAMSUNG" target="SIEMENS" id="339" weight="0.883" />
+      <edge source="SAMSUNG" target="SONY" id="340" weight="0.916" />
+      <edge source="SAMSUNG" target="TOSHIBA" id="341" weight="0.914" />
+      <edge source="SAMSUNG" target="TOYOTA" id="342" weight="0.88" />
+      <edge source="SAMSUNG" target="VOLKSWAGEN" id="343" weight="0.848" />
+      <edge source="SCHNEIDER ELECTRIC" target="SIEMENS" id="344" weight="0.931" />
+      <edge source="SCHNEIDER ELECTRIC" target="SONY" id="345" weight="0.888" />
+      <edge source="SCHNEIDER ELECTRIC" target="TOSHIBA" id="346" weight="0.886" />
+      <edge source="SCHNEIDER ELECTRIC" target="TOYOTA" id="347" weight="0.879" />
+      <edge source="SCHNEIDER ELECTRIC" target="VOLKSWAGEN" id="348" weight="0.855" />
+      <edge source="SIEMENS" target="SONY" id="349" weight="0.876" />
+      <edge source="SIEMENS" target="TOSHIBA" id="350" weight="0.893" />
+      <edge source="SIEMENS" target="TOYOTA" id="351" weight="0.909" />
+      <edge source="SIEMENS" target="VOLKSWAGEN" id="352" weight="0.923" />
+      <edge source="SONY" target="TOSHIBA" id="353" weight="0.925" />
+      <edge source="SONY" target="TOYOTA" id="354" weight="0.904" />
+      <edge source="SONY" target="VOLKSWAGEN" id="355" weight="0.814" />
+      <edge source="TOSHIBA" target="TOYOTA" id="356" weight="0.92" />
+      <edge source="TOSHIBA" target="VOLKSWAGEN" id="357" weight="0.832" />
+      <edge source="TOYOTA" target="VOLKSWAGEN" id="358" weight="0.914" />
+    </edges>
+  </graph>
+</gexf>
